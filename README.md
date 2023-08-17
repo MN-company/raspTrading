@@ -15,4 +15,5 @@ To start the code, you just need to run the requirements file. The [CCXT](https:
 
 ## Raspberry's GPIO board
 The Raspberry's GPIO board operates in two modes; we use the "board" mode and connect the four digital pins (33 to 37) and the GND '39' for this purpose.
-[GPIO Board](https://openclipart.org/image/800px/280972)
+
+![GPIO Board](280972.png)
